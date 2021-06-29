@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://twitter.com/smr_seddighy" target="blank"><img src="https://img.shields.io/twitter/follow/smr_seddighy?logo=twitter&style=for-the-badge" alt="smr_seddighy" /></a> </p>
 
-- 🔭 I’m currently working on [Rakolo](rakolo.com)
+- 🔭 I’m currently working on [Rakolo](https://rakolo.com)
 
-- 🌱 I’m currently learning **TALL Stack (Tailwindcss-Alpinejs-Laravel-Livewire))**
+- 🌱 I’m currently learning **TALL Stack (Tailwindcss-Alpinejs-Laravel-Livewire)**
 
 - 📫 How to reach me **smr.seddighy@gmail.com - https://ariaieboy.ir**
 
