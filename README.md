@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm AriaieBOY</h1>
-<h3 align="center">Junior back-end developer</h3>
+<h3 align="center">back-end developer</h3>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ariaieboy&theme=onedark&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
