@@ -77,3 +77,7 @@
 <div align="center">
 <a href="https://app.daily.dev/ariaieboy"><img src="https://github.com/ariaieboy/ariaieboy/blob/main/devcard.svg" width="400" alt="Ariaieboy's Dev Card"/></a>
 </div>
+<div align="center">
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+</div>
