@@ -40,7 +40,7 @@
 </p>
 <h6 align="center"> DataBases </h6>
 <p align="center">
-<a href="https://www.postgresql.org/" target="blank"><img align="center" src="https://img.shields.io/static/v1?style=for-the-badge&message=PostgreSQL&color=4169E1&logo=PostgreSQL&logoColor=FFFFFF&label=" alt="postgresql" /></a>
+<a href="https://www.postgresql.org/" target="blank"><img align="center" src="https://img.shields.io/static/v1?style=for-the-badge&message=Postgres&color=4169E1&logo=PostgreSQL&logoColor=FFFFFF&label=" alt="postgresql" /></a>
 <a href="https://www.mysql.com/" target="blank"><img align="center" src="https://img.shields.io/static/v1?style=for-the-badge&message=MySQL&color=4479A1&logo=MySQL&logoColor=FFFFFF&label=" alt="mysql" /></a>
 <a href="https://www.sqlite.org/" target="blank"><img align="center" src="https://img.shields.io/static/v1?style=for-the-badge&message=SQLite&color=003B57&logo=SQLite&logoColor=FFFFFF&label=" alt="sqlite" /></a>
 <a href="https://www.redis.io/" target="blank"><img align="center" src="https://img.shields.io/static/v1?style=for-the-badge&message=Redis&color=DC382D&logo=Redis&logoColor=FFFFFF&label=" alt="redis" /></a>
