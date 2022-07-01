@@ -29,6 +29,7 @@
 <a href="https://alpinejs.dev/" target="blank"><img align="center" src="https://img.shields.io/static/v1?style=for-the-badge&message=Alpine.js&color=222222&logo=Alpine.js&logoColor=8BC0D0&label=" alt="alpinejs" /></a>
 <a href="https://laravel.com/" target="blank"><img align="center" src="https://img.shields.io/static/v1?style=for-the-badge&message=Laravel&color=FF2D20&logo=Laravel&logoColor=FFFFFF&label=" alt="laravel" /></a>
 <a href="https://laravel-livewire.com/" target="blank"><img align="center" src="https://img.shields.io/static/v1?style=for-the-badge&message=Livewire&color=4E56A6&logo=Livewire&logoColor=FFFFFF&label=" alt="laravel livewire" /></a>
+<a href="https://filamentphp.com/" target="blank"><img align="center" src="https://img.shields.io/static/v1?style=for-the-badge&message=filament&color=efefef&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIGZpbGw9ImN1cnJlbnRDb2xvciIgdmlld0JveD0iNTQuMjc5IC0uOTc2IDMxLjMwOSAzMy4wNjUiPgogIDxwYXRoIGZpbGw9IiMxMTE4MjciIGQ9Im03MC45OTMgMTAuNDc0LS41OSAxLjQ5NSAyLjc2MyAxLjkxM2MuMTQ5LjEwMi4yMjguMjkzLjIwNi40ODZsLS4wMDkuMDU3LS4xODYuODM4Yy0uMDQ3LjIxMS0uMjA5LjM2NC0uNDAxLjM3NmwtMi40MzguMTYxIDIuMDg1IDEuNDMyYy4xNDkuMTAzLjIyOS4yOTQuMjA3LjQ4NmwtLjAxLjA1OC0uMTg2LjgzOGMtLjA0Ny4yMTEtLjIwOS4zNjMtLjQwMS4zNzZsLTIuNDM4LjE2MSAyLjA4NSAxLjQzMmMuMTQ5LjEwMi4yMjkuMjk0LjIwNy40ODZsLS4wMS4wNTgtLjE4Ni44MzdjLS4wNDYuMjExLS4yMDkuMzY0LS40LjM3N2wtMi40MzkuMTYxIDIuMDg2IDEuNDMyYy4xNDkuMTAyLjIyOC4yOTMuMjA2LjQ4NmwtLjAxLjA1Ny0uMTg1LjgzOGMtLjA0Ny4yMTEtLjIwOS4zNjMtLjQwMS4zNzZsLTIuNDM4LjE2MiAyLjA4NSAxLjQzMWMuMTQ5LjEwMi4yMjguMjk0LjIwNi40ODZsLS4wMDkuMDU4LS4xODYuODM4Yy0uMDQ3LjIxMS0uMjA5LjM2My0uNDAxLjM3NmwtMy40Mi4yOTctLjQyNSAxLjc5N2gtMi43MzFsLjg0NC0zLjMwMmMuMDQ3LS4yMTEuMjEtLjM2My40MDEtLjM3NmwyLjQzOS0uMTYyLTIuMDg2LTEuNDMxYy0uMTQ5LS4xMDItLjIyOC0uMjkzLS4yMDYtLjQ4NmwuMDA5LS4wNTguMTg2LS44MzdjLjA0Ny0uMjExLjIwOS0uMzY0LjQwMS0uMzc2bDIuNDM4LS4xNjItMi4wODUtMS40MzFjLS4xNDktLjEwMy0uMjI4LS4yOTQtLjIwNi0uNDg3bC4wMDktLjA1Ny4xODYtLjgzOGMuMDQ3LS4yMTEuMjA5LS4zNjMuNDAxLS4zNzZsMi40MzgtLjE2Mi0yLjA4NS0xLjQzMWMtLjE0OS0uMTAyLS4yMjktLjI5NC0uMjA3LS40ODZsLjAxLS4wNTguMTg2LS44MzdjLjA0Ni0uMjExLjIwOS0uMzY0LjQtLjM3N2wyLjQzOS0uMTYxLTIuMDg1LTEuNDMyYy0uMTQ5LS4xMDItLjIyOS0uMjkzLS4yMDctLjQ4NmwuMDEtLjA1Ny4xODUtLjgzOGMuMDQ3LS4yMTEuMjEtLjM2NC40MDEtLjM3NmwyLjQzOC0uMTYyLTIuMDg1LTEuNDMxYy0uMTQ5LS4xMDItLjIyOC0uMjk0LS4yMDYtLjQ4NmwuMDA5LS4wNTguMzgtMS4zMzEgMy4wMTItLjExNFptMi4xLTEwLjAyMmMxLjExOSAwIDEuOTQ5LjM3NSAyLjQ4OSAxLjEyNi41MzkuNzUxLjcwMSAxLjY1LjQ4NSAyLjY5Ny0uMjQzIDEuMTk4LS43NDUgMi4wMDctMS41MDcgMi40MjctLjc2Mi40MjEtMS43MS42MzEtMi44NDMuNjMxLTEuMTA2IDAtMS45MzktLjMyOC0yLjQ5OS0uOTgyLS41Ni0uNjU0LS43MTgtMS41ODctLjQ3Ni0yLjguMjMtMS4xMDIuNzMyLTEuODk0IDEuNTA4LTIuMzc2Ljc3NS0uNDgyIDEuNzIzLS43MjMgMi44NDMtLjcyM1oiLz4KPC9zdmc+Cg==&logoColor=FFFFFF&label=" alt="filamentphp" /></a>
 </p>
 <h6 align="center">Building & Testing Tools</h6>
 <p align="center">
@@ -77,6 +78,7 @@
 <div align="center">
 <a href="https://app.daily.dev/ariaieboy"><img src="https://github.com/ariaieboy/ariaieboy/blob/main/devcard.svg" width="400" alt="Ariaieboy's Dev Card"/></a>
 </div>
+<hr>
 <div align="center">
 
 <!--START_SECTION:waka-->
