@@ -82,9 +82,9 @@
 <div align="center">
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-911%20hrs%202%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-113-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-128-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-114%20Thousand%20lines%20of%20code-blue)
 
@@ -92,7 +92,7 @@
 
 > 🏆 412 Contributions in the Year 2022
  > 
-> 📦 45.6 kB Used in GitHub's Storage 
+> 📦 45.8 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -129,11 +129,11 @@ Sunday       76 commits     ███░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Tehran
 
 💬 Programming Languages: 
-YAML                     2 hrs 26 mins       █████░░░░░░░░░░░░░░░░░░░░   20.15% 
-PHP                      2 hrs 22 mins       █████░░░░░░░░░░░░░░░░░░░░   19.57% 
-Docker                   1 hr 55 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.93% 
-JSON                     1 hr 38 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.61% 
-JavaScript               1 hr 27 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.03%
+YAML                     2 hrs 35 mins       █████░░░░░░░░░░░░░░░░░░░░   22.89% 
+JavaScript               2 hrs 7 mins        ████░░░░░░░░░░░░░░░░░░░░░   18.69% 
+PHP                      1 hr 47 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.77% 
+JSON                     1 hr 40 mins        ███░░░░░░░░░░░░░░░░░░░░░░   14.77% 
+Docker                   1 hr 30 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.33%
 
 ```
 
@@ -150,7 +150,7 @@ Python                   2 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 01/07/2022 21:14:07 UTC
+ Last Updated on 02/07/2022 01:04:44 UTC
 <!--END_SECTION:waka-->
 
 </div>
