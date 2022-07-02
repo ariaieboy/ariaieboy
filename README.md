@@ -13,7 +13,7 @@
 
 
 
-<h2 align="center"> Connect with me:<h2>
+<h2 align="center"> Connect with me <h2>
 
 <p align="center">
 <a href="https://twitter.com/smr_seddighy" target="blank"><img align="center" src="https://img.shields.io/static/v1?style=for-the-badge&message=Twitter&color=1DA1F2&logo=Twitter&logoColor=FFFFFF&label=" alt="smr_seddighy"/></a>
@@ -22,7 +22,7 @@
 <a href="https://wa.me/989158585889?text=hi,%20i%20am%20contacting%20from%20github" target="blank"><img align="center" src="https://img.shields.io/static/v1?style=for-the-badge&message=WhatsApp&color=222222&logo=WhatsApp&logoColor=25D366&label=" alt="+989158585889" /></a>
 </p>
 
-<h2 align="center"> Languages and Tools: </h2>
+<h2 align="center"> Languages and Tools </h2>
 <h6 align="center">Main Stack</h6>
 <p align="center">
 <a href="https://tailwindcss.com/" target="blank"><img align="center" src="https://img.shields.io/static/v1?style=for-the-badge&message=Tailwind+CSS&color=222222&logo=Tailwind+CSS&logoColor=06B6D4&label=" alt="tailwindcss" /></a>
