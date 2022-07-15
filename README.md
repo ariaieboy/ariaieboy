@@ -84,7 +84,7 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-143-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-37-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-114%20Thousand%20lines%20of%20code-blue)
 
@@ -92,7 +92,7 @@
 
 > 🏆 453 Contributions in the Year 2022
  > 
-> 📦 43.8 kB Used in GitHub's Storage 
+> 📦 44.1 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -129,11 +129,11 @@ Sunday       88 commits     ███░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Tehran
 
 💬 Programming Languages: 
-PHP                      4 hrs 36 mins       ████████████████████░░░░░   83.28% 
-JSON                     15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.67% 
-Blade Template           13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.01% 
-JavaScript               11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   3.41% 
-Bash                     9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.8%
+PHP                      3 hrs 32 mins       █████████████████████░░░░   83.93% 
+JSON                     15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   6.13% 
+Blade Template           9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   3.89% 
+Bash                     9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   3.67% 
+SmartyConfig             4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.88%
 
 ```
 
@@ -150,7 +150,7 @@ Python                   2 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 14/07/2022 01:12:21 UTC
+ Last Updated on 15/07/2022 01:16:04 UTC
 <!--END_SECTION:waka-->
 
 </div>
