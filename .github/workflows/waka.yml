@@ -21,3 +21,4 @@ jobs:
           LOCALE: "en"
           SHOW_EDITORS: "False"
           SHOW_OS: "False"
+          SHOW_PROFILE_VIEWS: "False"
