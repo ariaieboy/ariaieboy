@@ -82,7 +82,7 @@
 <div align="center">
 
 ![](https://komarev.com/ghpvc/?username=ariaieboy&label=PROFILE+VIEWS&style=for-the-badge)
-
+[![wakatime](https://wakatime.com/badge/user/b4700a92-ebce-4a8b-bc1b-ee10c0a0041b.svg?style=for-the-badge)](https://wakatime.com/@b4700a92-ebce-4a8b-bc1b-ee10c0a0041b)
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
