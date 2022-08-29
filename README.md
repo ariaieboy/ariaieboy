@@ -72,7 +72,7 @@
 <h2 align="center"> Stats and Trophies</h2>
 <div align=center>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ariaieboy&theme=onedark&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=ariaieboy&theme=onedark&column=7&rank=-A)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 <div align="center">
