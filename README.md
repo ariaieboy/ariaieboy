@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **TALL Stack (Tailwindcss-Alpinejs-Laravel-Livewire)**
 
-- 📫 How to reach me **smr.seddighy@gmail.com - https://ariaieboy.ir**
+- 📫 How to reach me **ariaieboy.ir@gmail.com - https://ariaieboy.ir**
 
 
 
