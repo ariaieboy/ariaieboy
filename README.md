@@ -1,15 +1,16 @@
 # Hi 👋, I'm AriaieBOY
 
-> My actual name is Seyyed mohammad reza seddighy but on the internet, I am aka `AriaieBOY` and even my close friends calls me `Aria`.
+> My actual name is Seyyed mohammad reza seddighy, but on the internet, I am aka `AriaieBOY`, and even my close friends call me `Aria`.
 
-## back-end developer
+## About Me
 
-- 🔭 I’m currently working on [Rakolo](https://rakolo.com)
+- 🔭 I'm currently working on [Rakolo](https://rakolo.com) at days and on my side projects at nights.
 
-- 🌱 I’m currently learning **TALL Stack (Tailwindcss-Alpinejs-Laravel-Livewire)**
+- 📰 I am publishing articles on my blog:
+**https://ariaieboy.ir**
 
-- 📫 How to reach me **ariaieboy.ir@gmail.com - https://ariaieboy.ir**
-
+- 📧 You can mail me for work at:
+**ariaieboy.ir@gmail.com**
 
 
 
@@ -69,81 +70,9 @@
 <a href="https://www.jetbrains.com/" target="blank"><img align="center" src="https://img.shields.io/static/v1?style=for-the-badge&message=PhpStorm&color=000000&logo=PhpStorm&logoColor=FFFFFF&label=" alt="phpstorm" /></a>
 </p>
 
-<h2 align="center"> Stats and Trophies</h2>
-<div align=center>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ariaieboy&theme=onedark&column=7&rank=-A)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-<div align="center">
-<a href="https://app.daily.dev/ariaieboy"><img src="https://github.com/ariaieboy/ariaieboy/blob/main/devcard.svg" width="400" alt="Ariaieboy's Dev Card"/></a>
-</div>
-<hr>
 <div align="center">
 
 ![](https://komarev.com/ghpvc/?username=ariaieboy&label=PROFILE+VIEWS&style=for-the-badge)
 [![wakatime](https://wakatime.com/badge/user/b4700a92-ebce-4a8b-bc1b-ee10c0a0041b.svg?style=for-the-badge)](https://wakatime.com/@b4700a92-ebce-4a8b-bc1b-ee10c0a0041b)
-<!--START_SECTION:waka-->
-**🐱 My GitHub Data** 
-
-> 📦 54.7 kB Used in GitHub's Storage 
- > 
-> 🏆 945 Contributions in the Year 2023
- > 
-> 💼 Opted to Hire
- > 
-> 📜 42 Public Repositories 
- > 
-> 🔑 7 Private Repositories 
- > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                967 commits         ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   05.39 % 
-🌆 Daytime                5100 commits        ⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   28.41 % 
-🌃 Evening                7546 commits        ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   42.04 % 
-🌙 Night                  4336 commits        ⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   24.16 % 
-```
-📅 **I'm Most Productive on Saturday** 
-
-```text
-Monday                   2663 commits        ⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   14.84 % 
-Tuesday                  2734 commits        ⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   15.23 % 
-Wednesday                2468 commits        ⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   13.75 % 
-Thursday                 2582 commits        ⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   14.39 % 
-Friday                   2337 commits        ⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   13.02 % 
-Saturday                 3136 commits        ⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   17.47 % 
-Sunday                   2029 commits        ⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   11.30 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Tehran
-
-💬 Programming Languages: 
-PHP                      6 hrs 24 mins       ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜   68.52 % 
-YAML                     34 mins             ⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   06.15 % 
-Docker                   30 mins             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   05.51 % 
-JSON                     23 mins             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   04.13 % 
-Blade Template           21 mins             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   03.84 % 
-```
-
-**I Mostly Code in PHP** 
-
-```text
-PHP                      33 repos            ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   55.00 % 
-Blade                    4 repos             ⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   06.67 % 
-Shell                    3 repos             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   05.00 % 
-Dockerfile               2 repos             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   03.33 % 
-MATLAB                   1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   01.67 % 
-```
-
-
-
-
- Last Updated on 18/05/2023 01:44:56 UTC
-<!--END_SECTION:waka-->
-
 </div>
