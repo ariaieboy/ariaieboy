@@ -17,7 +17,7 @@
 <h2 align="center"> Connect with me <h2>
 
 <p align="center">
-<a href="https://twitter.com/ariaieboy_ir" target="blank"><img align="center" src="https://img.shields.io/static/v1?style=for-the-badge&message=Twitter&color=1DA1F2&logo=Twitter&logoColor=FFFFFF&label=" alt="smr_seddighy"/></a>
+<a href="https://bsky.app/profile/ariaieboy.ir" target="blank"><img align="center" src="https://img.shields.io/static/v1?style=for-the-badge&message=bsky&logo=bluesky&label=" alt="ariaieboy.ir"/></a>
 <a href="https://instagram.com/ariaieboy" target="blank"><img align="center" src="https://img.shields.io/static/v1?style=for-the-badge&message=Instagram&color=E4405F&logo=Instagram&logoColor=FFFFFF&label=" alt="ariaieboy" /></a>
 <a href="https://t.me/ariaieboy" target="blank"><img align="center" src="https://img.shields.io/static/v1?style=for-the-badge&message=Telegram&color=26A5E4&logo=Telegram&logoColor=FFFFFF&label=" alt="ariaieboy" /></a>
 <a href="https://wa.me/989158585889?text=hi,%20i%20am%20contacting%20from%20github" target="blank"><img align="center" src="https://img.shields.io/static/v1?style=for-the-badge&message=WhatsApp&color=222222&logo=WhatsApp&logoColor=25D366&label=" alt="+989158585889" /></a>
